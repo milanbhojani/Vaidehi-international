@@ -1,10 +1,5 @@
+<h1 align="center">🚀 Vaidehi-international</h1>
 
----
-
-### ✅ What You Need to Replace:
-- `Project Title Here`
-- Image links (`your-preview-image-link.com`)
-- Badges (customize to match your stack)
-- Your name/links
-
-Would you like me to customize it with your actual project name, skills, or resume info?
+<p align="center">
+  <img src="https://your-image-link.com/preview.png" alt="Project Preview" width="600"/>
+</p>
